@@ -1,7 +1,7 @@
 # **Are Fares Fair? A Data-driven Analysis into Hong Kong’s Green MiniBus Routes**
 *by Jayawardana Wickramasinghe Pathiranage Lakindu Ransika*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1o6NkjsUX6L9btD5-9yao8Qfrlj2LziRl/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18SJR4TlD-ZAhR5lGIuGKj6xLXNxfaeir?usp=sharing)
 
 ### 1. Introduction
 #### 1.1. Background
