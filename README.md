@@ -2,7 +2,7 @@
 *by Jayawardana Wickramasinghe Pathiranage Lakindu Ransika*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18SJR4TlD-ZAhR5lGIuGKj6xLXNxfaeir?usp=sharing)<br>
-**[View the Final Report (PDF)](https://github.com/Lakindu2003/hk-gmb-fare-equity/blob/main/capstone_final_report.pdf)**
+**[View the Final Report (PDF)](https://github.com/Lakindu2003.github.io/hk-gmb-fare-equity/blob/main/capstone_final_report.pdf)**
 
 ### 1. Introduction
 #### 1.1. Background
