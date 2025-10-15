@@ -1,7 +1,7 @@
 # **Are Fares Fair? A Data-driven Analysis into Hong Kong’s Green MiniBus Routes**
 *by Jayawardana Wickramasinghe Pathiranage Lakindu Ransika*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18SJR4TlD-ZAhR5lGIuGKj6xLXNxfaeir?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18SJR4TlD-ZAhR5lGIuGKj6xLXNxfaeir?usp=sharing)<br>
 **[View the Final Report (PDF)](https://github.com/Lakindu2003/hk-gmb-fare-equity/blob/main/capstone_final_report.pdf)**
 
 ### 1. Introduction
